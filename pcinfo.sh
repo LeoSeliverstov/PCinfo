@@ -1,4 +1,4 @@
-# This is a comment
+#!/bin/bash
 cat /etc/issue
 cat /proc/cpuinfo | grep model
 echo ""
